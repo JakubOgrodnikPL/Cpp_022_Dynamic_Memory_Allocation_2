@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646497890 source:c:\users\jakub\documents\022_dynamic_memory_allocation_2\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+
